@@ -1,7 +1,6 @@
-Finder for Github Users
-[Traversy Media on Youtube](https://www.youtube.com/watch?v=lIKrfLWNsUI)
+# Finder for Github Users
 
-=========
+Inspired by [Traversy Media on Youtube](https://www.youtube.com/watch?v=lIKrfLWNsUI)
 
 As the header says, it finds any github user and his available public repos upon input.
 
